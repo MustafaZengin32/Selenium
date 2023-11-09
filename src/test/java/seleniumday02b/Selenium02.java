@@ -1,4 +1,4 @@
-package seleniumday02a;
+package seleniumday02b;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

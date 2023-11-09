@@ -1,4 +1,4 @@
-package seleniumday02;
+package seleniumday02awebelementlocators;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

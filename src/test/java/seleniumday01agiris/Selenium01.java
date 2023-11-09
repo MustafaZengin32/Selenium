@@ -1,4 +1,4 @@
-package seleniumday01;
+package seleniumday01agiris;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
