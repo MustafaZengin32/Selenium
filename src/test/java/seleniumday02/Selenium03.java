@@ -19,6 +19,14 @@ public class Selenium03 {
 
         // //tagName[@attribute='value'];
 
+        // //tagName[@a*='value']; // * demek attributu onemli olmayan demek
+
+        // //tagName[@attribute='value']; birden fazla cikarsa bu ifade () [] seklinde yazilir
+
+        // kacinci elemansa [] icine yazilir
+
+
+
         System.setProperty("webdriver.chrome.driver", "src//main//resources//driver//chromedriver.exe");
 
         WebDriver driver=new ChromeDriver();
